@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Login-NinemFlix-REACT-e-JSON/static/css/main.f360e243.css",
+    "main.js": "/Login-NinemFlix-REACT-e-JSON/static/js/main.6ce5fba8.js",
+    "static/js/787.58de8804.chunk.js": "/Login-NinemFlix-REACT-e-JSON/static/js/787.58de8804.chunk.js",
+    "static/media/bg-login-and-cadastro.jpg": "/Login-NinemFlix-REACT-e-JSON/static/media/bg-login-and-cadastro.9b43c6c6d4d40d419370.jpg",
+    "index.html": "/Login-NinemFlix-REACT-e-JSON/index.html",
+    "main.f360e243.css.map": "/Login-NinemFlix-REACT-e-JSON/static/css/main.f360e243.css.map",
+    "main.6ce5fba8.js.map": "/Login-NinemFlix-REACT-e-JSON/static/js/main.6ce5fba8.js.map",
+    "787.58de8804.chunk.js.map": "/Login-NinemFlix-REACT-e-JSON/static/js/787.58de8804.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f360e243.css",
+    "static/js/main.6ce5fba8.js"
+  ]
+}
