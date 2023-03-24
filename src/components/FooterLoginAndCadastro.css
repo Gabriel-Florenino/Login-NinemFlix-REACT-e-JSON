@@ -1,0 +1,21 @@
+.footer-login-cadastro{border-top: 1px solid white; margin-top: 100px; padding: 30px 30px ; width: 100vw; 
+    display: flex; flex-direction: column; justify-content: center; align-items: center;}
+.container-footer-login-cadastro{position: relative;display: flex; flex-direction: row;justify-content: center; 
+    margin: 20px 0 0 0;gap: 10%; width: 100%; max-width: 395px;}
+.title-footer-login-cadastro{ font-size: 17px; text-align: left; position: absolute; left: 50%; 
+    transform:translateX(-50%);width: 100%; color: white;}
+.container-footer-login-cadastro ul{list-style: none;padding: 0;width: 45%; margin-top: 30px;}
+.container-footer-login-cadastro ul li{margin: 15px 0; font-size: 16px;}
+.footer-login-cadastro a{color: #A2B3B3;}
+
+@media (min-width: 768px) { /*( > 768PX )*/
+    .footer-login-cadastro{border-top:0; display: flex; flex-direction: column;justify-content: center; 
+        align-items: center; background-color: rgba(0, 0, 0, 0.75);}
+    .container-footer-login-cadastro{position: relative; display: flex; flex-direction: row;justify-content: center; 
+        margin: 50px 0 50px 0;gap: 0; max-width: 1000px;align-items: center; flex-wrap: wrap; gap: 20px;}
+    .title-footer-login-cadastro{ text-align: center; position: relative; left: 50%; transform:translateX(-50%);
+        width: 100%; margin: 0;} 
+    .container-footer-login-cadastro ul{width: 100%; margin-top: 15px; display: flex; flex-direction: row; 
+        justify-content: space-around; text-align: center;}
+    .container-footer-login-cadastro ul li{margin: 0; font-size: 16px; width: 30%;}
+}

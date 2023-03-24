@@ -1,0 +1,31 @@
+main{width: 100%; max-width: 500px; display: flex; justify-content: flex-start; align-items: center; align-content: center;
+    flex-direction: column; margin: 0; padding: 0;}
+a{text-decoration: none; cursor: pointer; color: white;}
+a:hover{text-decoration: underline; margin-bottom: 5px;}
+p{color: #A2B3B3;}
+h3{color: #A2B3B3;}
+
+#erro-text{ margin: 5px; display: block; color: #E87C03;} /*ERRO OF LOGIN*/
+#erro-input{border-bottom: #E87C03 solid 3px; } /*ERRO OF LOGIN*/
+
+/*NORMAL LOGIN*/
+.form-login-and-cadastro{margin: 20% 0 20% 0; width: 90%; max-width: 330px;}
+.title-form-login-and-cadastro{margin-bottom: 30px;}
+.sec-password-form-login-and-cadastro{position: relative; display: flex; flex-direction: row; align-items: center;}
+#btn-hide-or-show{all: unset; background: #333333; color: #758C8C; font-size: 16px; visibility: hidden; 
+    position: absolute; right: 15px; ; cursor: pointer;}
+.input{width: 100%;}
+.input:focus ~ #btn-hide-or-show,
+.input:valid ~ #btn-hide-or-show{visibility: visible;}
+.input{padding: 0 0 0 20px; width:100%; height: 50px; border-radius: 4px; border: 0; background-color: #333333; padding-top: 10px;}
+.placeholder{position: absolute; top: 20px; left: 20px; transform: translateY(-20%); color: #758C8C;transition: 0.4s; pointer-events: none;}
+.input:focus ~ span,
+.input:valid ~ span{transform: scale(0.9) translate(-5px,-20px);}
+.box-of-inputs-form-login-and-cadastro{width:100%; position:relative; margin: 15px 0 0 0;}
+.box-of-inputs-form-login-and-cadastro p{display: none;}
+.button-submit-form-login-and-cadastro{width: 100%;font-size: 20px; height: 50px; border-radius: 4px; border: 0; background-color: #E50914; margin: 30px 0 0 0; }
+.sec-help-and-checkbox-form-login-and-cadastro{width: 100%; height: 25px;display: flex; margin: 15px 0 0 0; 
+    flex-direction: row; align-items: center;}
+.sec-help-and-checkbox-form-login-and-cadastro section{width: 60%; display: flex; flex-direction: row; gap: 10px;}
+.sec-help-and-checkbox-form-login-and-cadastro section input{width: 15px; height: 15px; border-radius: 4px; border: 0;}
+form h3{margin: 100px 0 15px 0;}
