@@ -235,7 +235,7 @@ const MainLoginAndCadastro = () => {
                         </section>
                         <p id={erroTextPassword}>Senha invalida</p>
                     </div>
-                    <button className="button-submit-form-login-and-cadastro" type="submit" onClick={handlerClick}>Entrar</button> 
+                    <button className="button-submit-form-login-and-cadastro" type="submit" onClick={handlerClick()}>Entrar</button> 
                     
                     <section className="sec-help-and-checkbox-form-login-and-cadastro">
                         {(!cadastro) &&  
