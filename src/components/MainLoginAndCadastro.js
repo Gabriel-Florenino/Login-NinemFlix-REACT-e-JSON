@@ -1,6 +1,6 @@
 import {useState, useEffect} from "react" 
 import './MainLoginAndCadastro.css'
-const API = 'http://localhost:5000/'
+const API = 'https://gabriel-florenino.github.io/Login-NinemFlix-REACT-e-JSON/'
 
 const MainLoginAndCadastro = () => {
     //HIDE or SHOW password button
