@@ -25,17 +25,11 @@
   </div>
   <h2> Como funciona </h2>
   <ul style="list-style:none; text-decoration:none;" >
-    <li>O usuário insere uma URL longa no campo de entrada e clica no botão "Shorten it".</li>
-    <li>O site gera uma URL curta única usando uma API.</li>
-    <li>A URL curta é armazenada momentaneamente junto com a URL longa correspondente.</li>
-    <li>O site exibe a URL curta para o usuário, que pode copiá-la usando o botão disponivel para isso e depois compartilhá-la.</li>
-    <li>Quando um usuário acessa a URL curta, o site redireciona automaticamente para a URL longa correspondente.</li>
+    <li>Verifeca se o email é valido</li>
+    <li>Verifica se a senha é valida</li>
+    <li>Verifica a idade</li>
+    <li>Verifica se existe o usuario cadastrado</li>
   </ul>
-  <div>
-    <br>
-      <img style="width:100%;"src="design/Completamente responsivo (2).png">
-    <br>
-  </div>
   <div>
     <h2> Como usar </h2>
     <ul style="list-style:none; text-decoration:none;" >
