@@ -2,26 +2,25 @@
   <h1 style="font-size: 35px;">NinemFlix</h1>
   <p style="font-size: 18px;black text-decoration:none; color:;">Este é um site responsivo clone da Netflix que permite aos usuários fazer login na página. Este projeto foi construído com <a href="https://developer.mozilla.org/pt-BR/">HTML</a>, <a href="https://developer.mozilla.org/pt-BR/">CSS</a>, <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript</a>, <a href="https://legacy.reactjs.org/docs/getting-started.html">React</a> e <a href="https://www.json.org/json-pt.html">json</a>.</p>
   <h2> Visão geral </h2>
-  <p>O Encurtador de URL é um site elegante e fácil de usar que permite que os usuários encurtem URLs longas em URLs curtas e compartilháveis. Com uma interface
-    responsiva, este site é a solução perfeita para quem precisa compartilhar links longos e complicados.</p>
+  <p>NinemFlix é um site elegante e fácil de usar. Com uma interface responsiva.</p>
   <br>
 </div>
 <div
   <div>
   <h3>Versão para mobile</h3>
-      <img style="width:100%;"src="design/Completamente responsivo.png">
+      <img style="width:100%;"src="public/assets/telas-mobile (1).png">
     <br>
   </div>
     <div>
   <h3>Versão para desktop</h3>
-      <img style="width:100%;"src="design/Completamente responsivo (3).png">
+      <img style="width:100%;"src="public/assets/navigation-mobile.png">
     <br>
   </div>
   <h2> Recursos </h2>
   <p>Design responsivo: O site apresenta um design elegante e moderno que é otimizado para dispositivos móveis e desktops. O layout é limpo e intuitivo, com um esquema     de cores agradável e fácil de ler.</p>
   <div>
     <br>
-      <img style="width:100%;"src="design/Completamente responsivo (1).png">
+      <img style="width:100%;"src="public/assets/funcionamento (1).png">
     <br>
   </div>
   <h2> Como funciona </h2>
